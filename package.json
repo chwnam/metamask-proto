@@ -1,0 +1,14 @@
+{
+  "name": "changwoo-metamask-prototype",
+  "description": "Metamask prototype.",
+  "version": "0.1.0",
+  "license": "GPL-2.0-or-later",
+  "scripts": {
+    "start": "wp-scripts start",
+    "build": "wp-scripts build"
+  },
+  "main": "src/index.js",
+  "devDependencies": {
+    "@wordpress/scripts": "^19.2.2"
+  }
+}

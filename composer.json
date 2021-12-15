@@ -1,0 +1,7 @@
+{
+  "name": "changwoo/metamask-prototype",
+  "description": "Metamask prototype.",
+  "type": "wordpress-plugin",
+  "version": "0.1.0",
+  "license": "GPL-2.0-or-later"
+}
